@@ -6,7 +6,10 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-<font size="5">Please visit portfolio: https://nagomisportfolio.vercel.app (Still in progress)</font>
+<span style="font-size: 20px;">Please visit portfolio: 
+  <a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a> 
+  (Still in progress)
+</span>
 - 🧑‍💻 I'm a Full stack engineer.
 - 🌱 I’m currently learning cyber Cecurity!
 - 📫 How to reach me:...
