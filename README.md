@@ -10,7 +10,8 @@
 
 - 🧑‍💻 I'm a Full stack engineer.
 - 🌱 I’m currently learning cyber Cecurity!
-- 📫 How to reach me:...
+- 📫 How to reach me:xxxxx
+- 👯 I’m passionate about sports(Crossfit,Hyrox), outdoor activities(hiking,runnning,camping), and exploring new places!
 <br>
 
 
