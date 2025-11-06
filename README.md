@@ -17,7 +17,7 @@ Please visit portfolio: https://nagomisportfolio.vercel.app (Still in progress)
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,powershell,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,powershell,docker,terraform,aws,gcp,postgres,nodejs,linux,debian,django" />
 <br>
 
 
