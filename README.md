@@ -7,12 +7,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 <h3>Please visit portfolio:</h3>
-<h4><a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a></h4>
-<p>(Still in progress)</p>
-## 👋 Hi there
-### Please visit portfolio:
-#### [https://nagomisportfolio.vercel.app](https://nagomisportfolio.vercel.app)
-(Still in progress)
+<h4><a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a>
+</h4><p>(Still in progress)</p>
 
 <ul>- 🧑‍💻 I'm a Full stack engineer.</ul>
 <ul>- 🌱 I’m currently learning cyber Cecurity!<ul>
