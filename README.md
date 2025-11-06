@@ -9,7 +9,7 @@
 <h3>Please visit portfolio:<a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a></h3>
 
 - 🧑‍💻 I'm a Full stack engineer.
-- 🌱 I’m currently learning cyber Cecurity!
+- 🌱 I’m currently learning database!
 - 📫 How to reach me:xxxxx
 - 👯 I’m passionate about sports, outdoor activities, and exploring new places!
 <br>
