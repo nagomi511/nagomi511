@@ -1,19 +1,5 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
-
-
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
-<br>
-
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
   <img src="https://komarev.com/ghpvc/?username=nagomi511" />
 </div>
 
@@ -21,12 +7,11 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 <h3>Please visit portfolio:</h3>
-<h4><a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a>
-</h4><p>(Still in progress)</p>
+<a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a>
 
-<ul>- 🧑‍💻 I'm a Full stack engineer.</ul>
-<ul>- 🌱 I’m currently learning cyber Cecurity!<ul>
-<ul>- 📫 How to reach me:...</ul>
+- 🧑‍💻 I'm a Full stack engineer.
+- 🌱 I’m currently learning cyber Cecurity!
+- 📫 How to reach me:...
 <br>
 
 
