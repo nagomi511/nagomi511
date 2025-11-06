@@ -10,6 +10,9 @@
   <a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a> 
   (Still in progress)
 </span>
+<h3>Please visit portfolio:</h3>
+<h4><a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a></h4>
+<p>(Still in progress)</p>
 - 🧑‍💻 I'm a Full stack engineer.
 - 🌱 I’m currently learning cyber Cecurity!
 - 📫 How to reach me:...
