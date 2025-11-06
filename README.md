@@ -6,10 +6,6 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-<span style="font-size: 20px;">Please visit portfolio: 
-  <a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a> 
-  (Still in progress)
-</span>
 <h3>Please visit portfolio:</h3>
 <h4><a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a></h4>
 <p>(Still in progress)</p>
