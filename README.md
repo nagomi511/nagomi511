@@ -13,9 +13,10 @@
 ### Please visit portfolio:
 #### [https://nagomisportfolio.vercel.app](https://nagomisportfolio.vercel.app)
 (Still in progress)
-- 🧑‍💻 I'm a Full stack engineer.
-- 🌱 I’m currently learning cyber Cecurity!
-- 📫 How to reach me:...
+
+<ul>- 🧑‍💻 I'm a Full stack engineer.</ul>
+<ul>- 🌱 I’m currently learning cyber Cecurity!<ul>
+<ul>- 📫 How to reach me:...</ul>
 <br>
 
 
