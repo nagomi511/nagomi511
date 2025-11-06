@@ -8,8 +8,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 Please visit portfolio: https://nagomisportfolio.vercel.app (Still in progress)
 - 🧑‍💻 I'm a Full stack engineer.
-- 🌱 I’m currently learning !
-- 📫 How to reach me:
+- 🌱 I’m currently learning cyber Cecurity!
+- 📫 How to reach me:...
 <br>
 
 
