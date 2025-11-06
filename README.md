@@ -9,7 +9,7 @@
 Please visit portfolio: https://nagomisportfolio.vercel.app (Still in progress)
 - 🧑‍💻 I'm a Full stack engineer.
 - 🌱 I’m currently learning !
-- 📫 How to reach me: numeba51@gmail.com
+- 📫 How to reach me:
 <br>
 
 
