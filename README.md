@@ -10,7 +10,7 @@
 
 - 🧑‍💻 I'm a Full stack engineer.
 - 🌱 I’m currently learning database!
-- 📫 How to reach me:xxxxx
+- 📫 How to reach me:numeba51@gmail.com
 - 👯 I’m passionate about sports, outdoor activities, and exploring new places!
 <br>
 
