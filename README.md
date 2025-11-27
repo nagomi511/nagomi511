@@ -6,11 +6,10 @@
 <h3>Please visit portfolio:<a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a></h3>
 
 - 🧑‍💻 I'm a Full stack engineer.
-- 🌱 I’m currently learning database!
+- 🌱 I’m currently learning React!
 - 📫 How to reach me:numeba51@gmail.com
 - 👯 I’m passionate about sports, outdoor activities, and exploring new places!
 <br>
-
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,powershell,docker,aws,nodejs,linux,django" />
