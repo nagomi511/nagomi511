@@ -10,7 +10,6 @@
 - 👯 I’m passionate about sports, outdoor activities, and exploring new places!
 <br>
 
-
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,powershell,docker,aws,nodejs,linux,django" />
 
