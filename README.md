@@ -3,7 +3,6 @@
 </div>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 <h3>Please visit portfolio:<a href="https://nagomisportfolio.vercel.app" target="_blank">https://nagomisportfolio.vercel.app</a></h3>
-
 - 🧑‍💻 I'm a Full stack engineer.
 - 🌱 I’m currently learning Cyber Security
 - 📫 How to reach me:numeba51@gmail.com
